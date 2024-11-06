@@ -1,8 +1,10 @@
 # GitHub CLI Tool ⭐
 
+
+
 > **Put your Head Down and Work Hard**
 
-A CLI to fetch your recent GitHub commits, **NO BS NO GUI**
+A cli to fetch your recent GitHub commits, **NO BS NO GUI**
 
 ![GitHub CLI Tool](image.png)
 
@@ -65,4 +67,4 @@ Here's how to contribute:
 This project is licensed under the MIT License.
 
 Happy task tracking!
-[Idea Here](https://roadmap.sh/projects/github-user-activity)
+[Idea Here]("https://roadmap.sh/projects/github-user-activity")
